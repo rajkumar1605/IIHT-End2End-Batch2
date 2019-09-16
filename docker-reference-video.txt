@@ -1,1 +1,12 @@
-https://www.youtube.com/watch?v=fvEWoy1xOvo 
+https://www.youtube.com/watch?v=fvEWoy1xOvo
+
+Basic commands: 
+docker ps
+docker run
+docker logs
+docker build
+docker images
+docker container rm
+docker image rm
+
+ 
