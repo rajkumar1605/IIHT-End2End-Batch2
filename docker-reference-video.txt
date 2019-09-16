@@ -17,3 +17,4 @@ Dockerfile and the docker build command
 then he creates a container and links it with the mysql instance already running as in first step
 avlo than
 
+https://github.com/docker/toolbox/releases
