@@ -8,3 +8,12 @@ docker build
 docker images
 docker container rm
 docker image rm
+
+first he pulls image of mysql and then creates a container(instance)  of that image and runs it
+then he builds his spring boot application using the mvn clean package command
+
+then he creates a image out of the .jar file(which is output of mvn clean package) using 
+Dockerfile and the docker build command
+then he creates a container and links it with the mysql instance already running as in first step
+avlo than
+
