@@ -19,4 +19,4 @@ avlo than
 
 https://github.com/docker/toolbox/releases
 
-https://bit.ly/2WY0J7B
+https://bit.ly/2KSuR01
