@@ -1,7 +1,0 @@
-docker pixogram image id-f2505b0578b9 
-pixogram container id-5726730d7aa8
-mysql container id-b19179633593
-
-docker hub id- rohitadittya
-image name - rohit-pixogram
-tags - springbootpixoimage
