@@ -1,4 +1,13 @@
-https://www.youtube.com/watch?v=fvEWoy1xOvo
+Docker ref video: https://www.youtube.com/watch?v=fvEWoy1xOvo
+
+Video explination: 
+first he pulls image of mysql and then creates a container(instance)  of that image and runs it
+then he builds his spring boot application using the mvn clean package command
+
+then he creates a image out of the .jar file(which is output of mvn clean package) using 
+Dockerfile and the docker build command
+then he creates a container and links it with the mysql instance already running as in first step
+avlo than
 
 Basic commands: 
 docker ps
@@ -9,14 +18,11 @@ docker images
 docker container rm
 docker image rm
 
-first he pulls image of mysql and then creates a container(instance)  of that image and runs it
-then he builds his spring boot application using the mvn clean package command
+Docker toolbox link: https://github.com/docker/toolbox/releases
 
-then he creates a image out of the .jar file(which is output of mvn clean package) using 
-Dockerfile and the docker build command
-then he creates a container and links it with the mysql instance already running as in first step
-avlo than
+Vks reddy Drive link: https://bit.ly/2KSuR01
 
-https://github.com/docker/toolbox/releases
-
-https://bit.ly/2KSuR01
+Environment Variables->System Variables:
+JAVA_HOME: C:\Program Files\Java\jdk1.8.0_144(your local jdk path)
+MAVEN_HOME: C:\java cognizant\apache-maven-3.5.0-bin\apache-maven-3.5.0(your local maven path)
+Path: C:\Users\Admin\Downloads\docker(your local docker path);%MAVEN_HOME%\bin;
