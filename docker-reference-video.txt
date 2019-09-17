@@ -18,3 +18,5 @@ then he creates a container and links it with the mysql instance already running
 avlo than
 
 https://github.com/docker/toolbox/releases
+
+https://bit.ly/2WY0J7B
